@@ -48,7 +48,7 @@ var a = function xyz(){
 //Arguments are the values you pass in calling function
   paramsAndArgs(5,10)
 
-  //FirstClass functions
+  //FirstClass functions/First class citizens
   //Not only a concept of JS-python,etc
   //Functions can be passed as params and also can be returned by a function
   //Can pass named/anonymous function
@@ -66,3 +66,5 @@ var a = function xyz(){
   }
 
   paramsAndArgs(namedFunction)
+
+  //Arrow functions
