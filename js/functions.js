@@ -34,6 +34,8 @@ var a = function xyz(){
   console.log("within named function expression")
 }
 
+console.log(a());
+
 //What do you think will happen when I call xyz()?
 //A reference error is thrown
 
