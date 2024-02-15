@@ -1,2 +1,2 @@
 # JSConcepts
-JS important concept's snippets
+Snippets for JS important concepts
